@@ -1,5 +1,5 @@
 ## EXP 1
-# Led-control-using-Arduino
+# Led control using Arduino
 # Name:Ameesha Jeffi
 # Reg no:212223220007
 ## AIM
