@@ -61,7 +61,7 @@ Weighing Machines </br>
 
 ## CIRCUIT DIAGRAM
 
-![366283979-6f2c0af0-6945-45ce-b13e-071b60d09d7b](https://github.com/user-attachments/assets/35cbc7d1-5cfa-4ee9-b838-f4246f9571cb)
+<img width="1217" height="848" alt="image" src="https://github.com/user-attachments/assets/bbcabd93-e8d2-4d06-97ba-72b160f6cfc4" />
 
 ## PROGRAM
 
@@ -93,11 +93,12 @@ void loop() {
 ## OUTPUT
 ## LED OFF
 
-![366284023-081a9df9-b7c2-40e4-904d-77e19c7f9d07](https://github.com/user-attachments/assets/5d8cf2d1-39bf-45bb-b69a-98914e571f45)
+<img width="971" height="667" alt="Screenshot 2026-04-24 095633" src="https://github.com/user-attachments/assets/bc9426f5-44c0-43a8-b3b3-a19080064832" />
+
 
 ## LED ON
+<img width="1198" height="848" alt="Screenshot 2026-04-24 093206" src="https://github.com/user-attachments/assets/de42d877-c9d6-4329-9be3-2c980ef59354" />
 
-![366284040-a0e80b17-425a-4a1d-a748-bf387347e674](https://github.com/user-attachments/assets/512db410-f015-450d-b659-b0abd4036341)
 
 ## RESULT
 Thus to design and implement a system for LED control using an Arduino microcontroller and a push button is successfully executed.
