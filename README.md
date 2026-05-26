@@ -66,28 +66,24 @@ Weighing Machines </br>
 ## PROGRAM
 
 ```
-const int buttonpin=2;
-const int ledpin=13;
-
-int buttonstate=0;
+1.bool button_status;
 
 void setup() {
-  pinMode(ledpin,OUTPUT);
-  pinMode(buttonpin,INPUT);
-
+  pinMode(10,OUTPUT);
+  pinMode(5,INPUT);
 }
 
 void loop() {
-  buttonstate=digitalRead(buttonpin);
-  if(buttonstate==HIGH)
+  button_status=digitalRead(5);
+  if (button_status== HIGH)
   {
-    digitalWrite(ledpin,HIGH);
+    digitalWrite(10,HIGH);
+    delay(1000);
+    digitalWrite(10,LOW);
+    delay(3000);
   }
   else
-  {
-    digitalWrite(ledpin,LOW);
-  }
-
+  digitalWrite(13,LOW);
 }
 ```
 ## OUTPUT
